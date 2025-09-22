@@ -24,7 +24,17 @@ I enjoy building clean, efficient, and scalable applications, always looking for
 I'm always open to collaboration on interesting projects.  
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marcelo-fabrizio-lombardo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fabriziomarcelolombardo@gmail.com) 
+<p>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/marcelo-fabrizio-lombardo">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p>
+  <a href="mailto:fabriziomarcelolombardo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 <div align="center">
