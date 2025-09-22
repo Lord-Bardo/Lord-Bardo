@@ -28,17 +28,17 @@ I'm always open to collaboration on interesting projects.
   <a href="https://linkedin.com/in/www.linkedin.com/in/marcelo-fabrizio-lombardo">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
-<p>
-  <a href="mailto:fabriziomarcelolombardo@gmail.com">
+   <a href="mailto:fabriziomarcelolombardo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+
+
 ---
-<div align="center">
+
 # 💻 Tech Stack:
+<div align="center">
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
