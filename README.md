@@ -1,5 +1,25 @@
-# 💫 About Me:
-🌱 I’m currently learning SpringBoot and Java<br><br>
+# Hi there 👋
+
+I'm Fabrizio, a passionate software developer with experience in **C, C++, Java, PHP (Laravel), JavaScript, HTML, CSS, and MySQL**.  
+I enjoy building clean, efficient, and scalable applications, always looking for ways to learn and improve.
+
+🔹 I have worked with **database modeling**, **backend services**, and **frontend design**.  
+🔹 Comfortable with frameworks and tools like **Laravel, Spring Boot, Angular**.  
+🔹 Strong foundation in **algorithms, data structures**.  
+🔹 Currently exploring **software architecture, system optimization, and statistics in Java**.
+
+---
+
+### What I like
+- 💻 Solving challenging programming problems.  
+- ⚡ Optimizing performance and memory usage.  
+- 📚 Sharing knowledge and learning new technologies.  
+- ⚽ Teamwork and strategy (even outside coding — like football ⚽).  
+
+---
+
+📫 **Let’s connect!**  
+I'm always open to collaboration on interesting projects.  
 
 
 ## 🌐 Socials:
